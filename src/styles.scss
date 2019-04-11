@@ -1,0 +1,17 @@
+@import 'variables.scss';
+
+body {
+  font-family: sans-serif;
+}
+
+p {
+  color: $colorTwo;
+}
+
+a {
+  color: $colorOne;
+}
+
+h1 {
+  color: $colorThree;
+}

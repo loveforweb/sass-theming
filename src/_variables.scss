@@ -1,0 +1,10 @@
+$colorOne: #00ff47;
+$colorTwo: #ff0000;
+$colorThree: #0004ff;
+$colorFour: #00ffb1;
+
+@if $brand == 'theme_2'{
+  $colorOne: #067891;
+  $colorTwo: #02834C;
+  $colorThree: pink;
+}
